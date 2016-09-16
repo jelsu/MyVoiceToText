@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">MyVoiceToText</string>
+    <string name="show_voice_listener_string">Show voice listener</string>
+</resources>
